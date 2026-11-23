@@ -23,4 +23,4 @@
 - Data sent to a server is encrypted in transit.
 - Users can export or delete their data.
 - Individual records are never sold or given to lenders, buyers or advertisers.
-- Before launch, the team will check the plan against Kazakhstan's personal data law.
+- Before launch, the maintainer will check the plan against Kazakhstan's personal data law.

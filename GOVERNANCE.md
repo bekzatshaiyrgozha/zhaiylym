@@ -12,7 +12,7 @@ Copyright remains with the project's contributors, and their work is released un
 | --- | --- | --- |
 | Bekzat Shaiyrgozha | [bekzatshaiyrgozha](https://github.com/bekzatshaiyrgozha) | Project maintainer |
 
-Team members are added to this table with their own responsibilities.
+This is currently an individual project. New maintainers are added to this table with their own responsibilities.
 
 ## Decisions
 
